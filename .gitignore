@@ -1,0 +1,5 @@
+/.idea
+/.rubocop.yml
+/.ruby-version
+*.gem
+/Gemfile.lock
